@@ -25,4 +25,5 @@ Library
     process,
     iterIO,
     transformers,
-    bytestring
+    bytestring,
+    cpphs
