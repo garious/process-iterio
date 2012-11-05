@@ -4,6 +4,7 @@ Synopsis:           IterIO Process Library
 Description:        IterIO combinators for the Process library
 Homepage:           https://github.com/garious/process-iterio
 License:            BSD3
+License-file:       LICENSE
 Author:             Greg Fitzgerald
 Maintainer:         Greg Fitzgerald <garious@gmail.com>
 Category:           System
