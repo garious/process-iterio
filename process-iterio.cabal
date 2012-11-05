@@ -9,7 +9,7 @@ Author:             Greg Fitzgerald
 Maintainer:         Greg Fitzgerald <garious@gmail.com>
 Category:           System
 Build-type:         Simple
-Cabal-version:      >=1.6
+Cabal-version:      >=1.8
 
 source-repository head
   Type:             git
