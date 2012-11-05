@@ -1,7 +1,7 @@
 IterIO Process Library
 ----------------------
 
-![alt text](https://travis-ci.org/garious/process-iterio.png "Build Status")
+[![Build Status](https://secure.travis-ci.org/garious/process-iterio.png?branch=master)](http://travis-ci.org/garious/process-iterio)
 
 A small library using the IterIO library to pipe data between processes.
 
