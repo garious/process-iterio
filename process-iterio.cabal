@@ -27,3 +27,15 @@ Library
     transformers,
     bytestring,
     cpphs
+
+Test-Suite Test
+  type:           exitcode-stdio-1.0
+  main-is:        Test.hs
+  GHC-Options:    -Wall -fno-ignore-asserts
+  Build-depends:
+    base,
+    process,
+    iterIO,
+    transformers,
+    bytestring,
+    cpphs
