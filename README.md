@@ -7,6 +7,7 @@ A small library using the IterIO library to pipe data between processes.
 
 Example usage:
 
+```haskell
     {-# LANGUAGE OverloadedStrings #-}
     
     import Data.IterIO
@@ -20,6 +21,6 @@ Example usage:
 
         -- Pipe "very cool" to 'cat' and print the output
         enumPure "very cool\n" |. cmd "cat" [] |$ stdoutI
-
+```
 
 
